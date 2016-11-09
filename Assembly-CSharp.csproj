@@ -130,7 +130,6 @@
      <Compile Include="Assets\GoogleVR\Scripts\VRDevices\iOSDevice.cs" />
      <Compile Include="Assets\Scripts\AdsClicker.cs" />
      <Compile Include="Assets\Scripts\AdsHandler.cs" />
-     <Compile Include="Assets\Scripts\AdsManager.cs" />
      <Compile Include="Assets\Scripts\ButtonExecute.cs" />
      <Compile Include="Assets\Scripts\Clicker.cs" />
      <Compile Include="Assets\Scripts\HeadLookWalk.cs" />

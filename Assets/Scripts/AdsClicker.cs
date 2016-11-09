@@ -36,7 +36,6 @@ public class AdsClicker : MonoBehaviour {
 			this.hitAds = hit.transform.parent.gameObject;
 			countDown -= Time.deltaTime;
 			if (countDown < 0.0f) {
-				//nativeAd.PerformClick ("VR HA Test");
 				SceneManager.LoadScene (nativeAd.GetText ("NextScene"));
 				countDown = timeToSelect;
 			}
