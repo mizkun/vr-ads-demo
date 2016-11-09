@@ -8,7 +8,6 @@ using UnityEngine.UI;
 public class AdsHandler : MonoBehaviour {
 	public const string NativeAdUnitId = "/6499/mizutani_test_unit";
 	public const string TemplateId = "10096530";
-	// https://ics.corp.google.com/dfp/6499#delivery/CreateCustomAdFormat/creativeTemplateId=10088490
 	public const string ImageName = "MainImage";
 	public String AdStatus = "Not Requested Yet";
 
